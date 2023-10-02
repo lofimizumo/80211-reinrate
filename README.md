@@ -24,3 +24,13 @@ In this work, we introduce a rate adaptation in 802.11 wireless networks using t
 2. Navigate to the example directory and run the provided Python script:
   `cd scratch/reinrate'
   'python ns3ai.py'
+
+## Cite Our Work
+If you find this work useful in your research or projects, please consider citing our paper:
+
+@inproceedings{ReinRate2024,
+title={A Reinforcement Learning Approach to Wi-Fi Rate Adaptation Using the REINFORCE Algorithm},
+author={Ye, Tao and Wee-lum, Tan},
+booktitle={Proceedings of IEEE Wireless Communications and Networking Conference 2024},
+year={2024},
+}
